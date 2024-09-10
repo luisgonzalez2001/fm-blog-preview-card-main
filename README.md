@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [code](hhttps://github.com/luisgonzalez2001/fm-blog-preview-card-main)
+- Solution URL: [code](https://github.com/luisgonzalez2001/fm-blog-preview-card-main)
 - Live Site URL: [live site](https://luisgonzalez2001.github.io/fm-blog-preview-card-main/)
 
 ## My process
